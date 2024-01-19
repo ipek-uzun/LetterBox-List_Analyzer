@@ -5,7 +5,7 @@
 
 This project aims to predict movie preferences using machine learning techniques. The dataset includes information about various movies, such as ratings, genres, and runtime. The goal is to build models that can predict whether a user will like or dislike a movie based on specific features.
 
-Fur further information please check: https://ipekuzun6.wordpress.com/ 
+For further information please check: https://ipekuzun6.wordpress.com/ 
 
 ## Data Extraction
 
