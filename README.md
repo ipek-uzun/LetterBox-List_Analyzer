@@ -10,6 +10,7 @@ For further information please check: https://ipekuzun6.wordpress.com/
 ## Data Extraction
 
 The dataset was collected from Letterboxd using web scraping techniques. The collected data includes information such as film title, release year, director, genres, owner rating, average rating, runtime, countries, original language, spoken languages, watches, list appearances, likes, cast, studios, and Letterboxd URL.
+Thanks to https://github.com/L-Dot/Letterboxd-list-scraper
 
 ## Exploratory Data Analysis (EDA)
 
