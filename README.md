@@ -1,4 +1,3 @@
-# LetterBox-List_Analyzer
 
 # Letterboxd List Analyzer and Movie Preferences Prediction 
 
